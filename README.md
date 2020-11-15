@@ -1,10 +1,14 @@
-# CodingBattle_2020
+# CodingCompetitions
 
-https://le-shaker.com/codingbattle/
+- Liste des compétitions
 
-- Task 1 :a_tickets :
-  100/100
-- Task 2 : b_direction_top_50.c
-  100/100
+# Google Kick Start
+- Date : 15 nov 2020
+- Lien : https://codingcompetitions.withgoogle.com/kickstart/
+- Mon classement : 2293/4299
 
-#Résultat finaux : 606
+
+# CodingBattle 2020
+- Date : 14 oct 2020
+- Lien : https://le-shaker.com/codingbattle/
+- Mon classement : 606
