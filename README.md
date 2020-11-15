@@ -1,6 +1,9 @@
 # CodingCompetitions
 
-- Liste des compétitions
+- Liste des compétitions :
+
+- Google Kick Start
+- CodingBattle 2020
 
 # Google Kick Start
 - Date : 15 nov 2020
